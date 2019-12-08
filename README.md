@@ -11,19 +11,19 @@ Live2D Cubism SDK For JavaScript と AR.js を組み合わせたサンプルで�
 マーカーにロゴ画像を使う例と QR コードを使う例の2種類を用意しています。
 
 ### ロゴ画像をマーカーにしたサンプル
-|[サンプルページのリンク](https://live2d.github.io/CubismARjsSample/)|マーカー|
+|[サンプルページのリンク](https://taninatsumi.github.io/C97_AR/)|マーカー|
 |---|---|
-|<img src="https://live2d.github.io/CubismARjsSample/assets/logo_qr.png" width="300px">|<img src="https://live2d.github.io/CubismARjsSample/assets/logo_marker.png" width="300px">|
+|<img src="https://taninatsumi.github.io/C97_AR/assets/logo_qr.png" width="300px">|<img src="https://taninatsumi.github.io/C97_AR/assets/logo_marker.png" width="300px">|
 
 ### QR コードをマーカーにしたサンプル
-|[サンプルページのリンク兼マーカー](https://live2d.github.io/CubismARjsSample/qr_marker.html)|
+|[サンプルページのリンク兼マーカー](https://taninatsumi.github.io/C97_AR/qr_marker.html)|
 |---|
-|<img src="https://live2d.github.io/CubismARjsSample/assets/qr_marker.png" width="300px">|
+|<img src="https://taninatsumi.github.io/C97_AR/assets/qr_marker.png" width="300px">|
 
 
 ## インストールするには？
 
-1. [トップページ](https://github.com/Live2D/CubismARjsSample) の右上にある "Clone or download" ボタンを押します
+1. [トップページ](https://taninatsumi.github.io/C97_AR/) の右上にある "Clone or download" ボタンを押します
 
 2. ポップアップが表示されるので、"Download ZIP" ボタンを押します
 
