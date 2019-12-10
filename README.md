@@ -1,4 +1,9 @@
 ﻿# Live2D Cubism SDK AR.js Samples
+（公式のサンプルが動かないので個人的に修正したものです。近いうちに新しいものになるらしいのでそれまでにAR作りたい人用に。）
+[【公式】Live2D/CubismARjsSample](https://github.com/Live2D/CubismARjsSample)
+
+
+
 
 Live2D Cubism SDK For JavaScript と AR.js を組み合わせたサンプルです。
 
